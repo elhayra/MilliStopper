@@ -1,0 +1,8 @@
+MilliStopper	KEYWORD1
+start		KEYWORD2
+startOver	KEYWORD2
+pause		KEYWORD2
+resume		KEYWORD2
+stop		KEYWORD2
+getElapsedtime	KEYWORD2
+getState	KEYWORD2
